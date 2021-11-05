@@ -1,4 +1,4 @@
-# fan-activity
+# fun-activity
 
 # Create-A-Fan-Page
 
