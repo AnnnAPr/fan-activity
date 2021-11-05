@@ -1,6 +1,6 @@
 # fun-activity
 
-# Create-A-Fan-Page
+# Create-A-Fun-Page
 
 For this activity you are tasked to build a fan page for your favorite music artist. You can only use HTML, no CSS or JavaScript.
 
